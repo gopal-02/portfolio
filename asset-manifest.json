@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gopalkumar.me/static/css/main.474c5627.css",
+    "main.js": "/gopalkumar.me/static/js/main.f9d1cb00.js",
+    "static/js/453.ace21015.chunk.js": "/gopalkumar.me/static/js/453.ace21015.chunk.js",
+    "static/media/Gopal-Kumar-Resume.pdf": "/gopalkumar.me/static/media/Gopal-Kumar-Resume.f54b148f6ede916bb64b.pdf",
+    "static/media/blog.png": "/gopalkumar.me/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/gopalkumar.me/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/gopalkumar.me/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/gopalkumar.me/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/chroma.cjs": "/gopalkumar.me/static/media/chroma.271634d07525ddfb33b4.cjs",
+    "static/media/home-bg.jpg": "/gopalkumar.me/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/gopalkumar.me/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/gopalkumar.me/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/gopalkumar.me/index.html",
+    "main.474c5627.css.map": "/gopalkumar.me/static/css/main.474c5627.css.map",
+    "main.f9d1cb00.js.map": "/gopalkumar.me/static/js/main.f9d1cb00.js.map",
+    "453.ace21015.chunk.js.map": "/gopalkumar.me/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.474c5627.css",
+    "static/js/main.f9d1cb00.js"
+  ]
+}
